@@ -5,7 +5,7 @@ A repository for all my notes or todos. A simple script to start with and can be
 ```sh 
 #!/usr/bin/env bash
 
-echo -e "Name of note (spaces should be in underscores)"
+echo -e "Name of note:"
 IFS=: read -r answer
 
 nvim "$HOME/useful-notes/${answer}.md"
