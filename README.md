@@ -6,9 +6,9 @@ A repository for all my notes or todos. A simple script to start with and can be
 #!/usr/bin/env bash
 
 echo -e "Name of note:"
-IFS=: read -r answer
-
-nvim "$HOME/useful-notes/${answer}.md"
+read -r answer
+[ -z "${answer}" ] && exit
+nvim "$HOME/useful-notes/${answer// /-}.md"
 sleep 2s
 ```
 
