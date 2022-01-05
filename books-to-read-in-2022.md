@@ -6,5 +6,6 @@
 - [ ] Hands on Design Patterns and Best Practices with Julia by Tom Kwong
 - [ ] The Rust Book 
 - [ ] Effective C by Robert Seacord
-- [ ] Statistics with Julia by Yoni Nazarathy and Hayden Klok
+- [ ] ~~Statistics with Julia by Yoni Nazarathy and Hayden Klok~~
+- [ ] An Introduction to Statistical Learning
 
