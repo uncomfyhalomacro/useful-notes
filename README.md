@@ -14,7 +14,7 @@ sleep 2s
 
 Make sure the PATH exists lol
 
-A complex variation of the script
+## A complex variation of the script
 
 ```sh
 #!/usr/bin/env bash
