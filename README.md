@@ -32,7 +32,7 @@ then
 	setsid /bin/sh -c "${command}" >&/dev/null &
 	sleep 0.3s
 else
-	command="kitty nvim \"${USEFUL_NOTES}/${answer}\""
+	command="kitty nvim \"${answer}\""
 	setsid /bin/sh -c "${command}" >&/dev/null &
 	sleep 0.3s
 fi
