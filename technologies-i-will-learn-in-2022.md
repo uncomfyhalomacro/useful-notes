@@ -8,4 +8,5 @@
 - [ ] Vue.js
 - [ ] Svelte
 - [ ] Learn Rust (again smh)
+- [ ] Learn Yew (tinker with it)
 
