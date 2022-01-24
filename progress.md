@@ -2,6 +2,7 @@
 
 - Agents.jl
 - REST API 
+- Weave.jl
 
 # Books to read for this month
 
