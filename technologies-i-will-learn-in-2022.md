@@ -1,5 +1,6 @@
 # Technologies I will learn in 2022
 
+- [ ] Weave.jl
 - [ ] PostgreSQL
 - [ ] GraphQL
 - [ ] TypedDBClient.jl
