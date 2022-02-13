@@ -8,6 +8,7 @@
 - [ ] Rest API
 - [ ] Vue.js
 - [ ] Svelte
+- [ ] Learn C (Essential to understand how computers work)
 - [ ] Learn Rust (again smh)
 - [ ] Learn Yew (tinker with it)
 - [ ] Learn Elm (Dunno)
